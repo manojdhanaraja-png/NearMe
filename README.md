@@ -70,10 +70,11 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](src2-1.jpeg)
-![alt text](<src 1-1.jpeg>)
-![alt text](src3.jpeg)
+
 ![alt text](smc.jpeg)
+![alt text](<src 1.jpeg>)
+![alt text](src2.jpeg)
+![alt text](<src3 copy.jpeg>)
 
 
 
